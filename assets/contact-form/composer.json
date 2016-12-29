@@ -1,0 +1,10 @@
+{
+    "name": "piotr",
+    "description": "mMja biblioteka do wysylania maili",
+    "type": "project",
+    "require": {
+        "monolog/monolog": "^1.22",
+        "phpmailer/phpmailer": "^5.2",
+        "phpunit/phpunit": "^4.8"
+    }
+}
